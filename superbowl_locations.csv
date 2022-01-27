@@ -1,0 +1,45 @@
+StadiumID,Name,City,State_x,Country,Capacity,PlayingSurface,GeoLat,GeoLong,Type,Date,Year,SB,Winner,Winner Pts,Loser,Loser Pts,MVP,Stadium,State_y
+2,Hard Rock Stadium,Miami Gardens,FL,USA,64767,Grass,25.958056,-80.238889,Outdoor,Feb 2,2020,LIV (54),Kansas City Chiefs,31,San Francisco 49ers,20,Patrick Mahomes,Hard Rock Stadium,Florida
+2,Hard Rock Stadium,Miami Gardens,FL,USA,64767,Grass,25.958056,-80.238889,Outdoor,Feb 7,2010,XLIV (44),New Orleans Saints,31,Indianapolis Colts,17,Drew Brees,Sun Life Stadium,Florida
+2,Hard Rock Stadium,Miami Gardens,FL,USA,64767,Grass,25.958056,-80.238889,Outdoor,Feb 4,2007,XLI (41),Indianapolis Colts,29,Chicago Bears,17,Peyton Manning,Dolphin Stadium,Florida
+2,Hard Rock Stadium,Miami Gardens,FL,USA,64767,Grass,25.958056,-80.238889,Outdoor,Jan 31,1999,XXXIII (33),Denver Broncos,34,Atlanta Falcons,19,John Elway+,Pro Player Stadium,Florida
+2,Hard Rock Stadium,Miami Gardens,FL,USA,64767,Grass,25.958056,-80.238889,Outdoor,Jan 29,1995,XXIX (29),San Francisco 49ers,49,San Diego Chargers,26,Steve Young+,Joe Robbie Stadium,Florida
+2,Hard Rock Stadium,Miami Gardens,FL,USA,64767,Grass,25.958056,-80.238889,Outdoor,Jan 22,1989,XXIII (23),San Francisco 49ers,20,Cincinnati Bengals,16,Jerry Rice+,Joe Robbie Stadium,Florida
+3,MetLife Stadium,East Rutherford,NJ,USA,82500,Artificial,40.813528,-74.074361,Outdoor,Feb 2,2014,XLVIII (48),Seattle Seahawks,43,Denver Broncos,8,Malcolm Smith,MetLife Stadium,New Jersey
+9,Lucas Oil Stadium,Indianapolis,IN,USA,67000,Artificial,39.760056,-86.163806,RetractableDome,Feb 5,2012,XLVI (46),New York Giants,21,New England Patriots,17,Eli Manning,Lucas Oil Stadium,Indiana
+10,TIAA Bank Field,Jacksonville,FL,USA,69132,Grass,30.323889,-81.6375,Outdoor,Feb 6,2005,XXXIX (39),New England Patriots,24,Philadelphia Eagles,21,Deion Branch,Alltel Stadium,Florida
+11,NRG Stadium,Houston,TX,USA,72220,Artificial,29.684722,-95.410833,RetractableDome,Feb 5,2017,LI (51),New England Patriots,34,Atlanta Falcons,28,Tom Brady,NRG Stadium,Texas
+11,NRG Stadium,Houston,TX,USA,72220,Artificial,29.684722,-95.410833,RetractableDome,Feb 1,2004,XXXVIII (38),New England Patriots,32,Carolina Panthers,29,Tom Brady,Reliant Stadium,Texas
+11,NRG Stadium,Houston,TX,USA,72220,Artificial,29.684722,-95.410833,RetractableDome,Jan 13,1974,VIII (8),Miami Dolphins,24,Minnesota Vikings,7,Larry Csonka+,Rice Stadium,Texas
+14,Qualcomm Stadium,San Diego,CA,USA,70561,Grass,32.783188,-117.119439,Outdoor,Jan 26,2003,XXXVII (37),Tampa Bay Buccaneers,48,Oakland Raiders,21,Dexter Jackson,Qualcomm Stadium,California
+14,Qualcomm Stadium,San Diego,CA,USA,70561,Grass,32.783188,-117.119439,Outdoor,Jan 25,1998,XXXII (32),Denver Broncos,31,Green Bay Packers,24,Terrell Davis+,Qualcomm Stadium,California
+14,Qualcomm Stadium,San Diego,CA,USA,70561,Grass,32.783188,-117.119439,Outdoor,Jan 31,1988,XXII (22),Washington Redskins,42,Denver Broncos,10,Doug Williams,Jack Murphy Stadium,California
+17,AT&T Stadium,Arlington,TX,USA,80000,Artificial,32.747778,-97.092778,RetractableDome,Feb 6,2011,XLV (45),Green Bay Packers,31,Pittsburgh Steelers,25,Aaron Rodgers,Cowboys Stadium,Texas
+21,Ford Field,Detroit,MI,USA,65000,Artificial,42.340021,-83.045556,Dome,Feb 5,2006,XL (40),Pittsburgh Steelers,21,Seattle Seahawks,10,Hines Ward,Ford Field,Michigan
+23,Mall of America Field,Minneapolis,MN,US,64111,Dome,44.976,-93.225,Dome,Feb 4,2018,LII (52),Philadelphia Eagles,41,New England Patriots,33,Nick Foles,U.S. Bank Stadium,Minnesota
+23,Mall of America Field,Minneapolis,MN,US,64111,Dome,44.976,-93.225,Dome,Jan 26,1992,XXVI (26),Washington Redskins,37,Buffalo Bills,24,Mark Rypien,Metrodome,Minnesota
+36,Huntington Bank Stadium,Minneapolis,MN,USA,50805,Artificial,44.976,-93.225,Outdoor,Feb 4,2018,LII (52),Philadelphia Eagles,41,New England Patriots,33,Nick Foles,U.S. Bank Stadium,Minnesota
+36,Huntington Bank Stadium,Minneapolis,MN,USA,50805,Artificial,44.976,-93.225,Outdoor,Jan 26,1992,XXVI (26),Washington Redskins,37,Buffalo Bills,24,Mark Rypien,Metrodome,Minnesota
+42,U.S. Bank Stadium,Minneapolis,MN,USA,66655,Artificial,44.974288,-93.258,Dome,Feb 4,2018,LII (52),Philadelphia Eagles,41,New England Patriots,33,Nick Foles,U.S. Bank Stadium,Minnesota
+42,U.S. Bank Stadium,Minneapolis,MN,USA,66655,Artificial,44.974288,-93.258,Dome,Jan 26,1992,XXVI (26),Washington Redskins,37,Buffalo Bills,24,Mark Rypien,Metrodome,Minnesota
+25,Georgia Dome,Atlanta,GA,USA,74228,Dome,33.757614,-84.400972,Dome,Feb 3,2019,LIII (53),New England Patriots,13,Los Angeles Rams,3,Julian Edelman,Mercedes-Benz Stadium,Georgia
+25,Georgia Dome,Atlanta,GA,USA,74228,Dome,33.757614,-84.400972,Dome,Jan 30,2000,XXXIV (34),St. Louis Rams,23,Tennessee Titans,16,Kurt Warner+,Georgia Dome,Georgia
+25,Georgia Dome,Atlanta,GA,USA,74228,Dome,33.757614,-84.400972,Dome,Jan 30,1994,XXVIII (28),Dallas Cowboys,30,Buffalo Bills,13,Emmitt Smith+,Georgia Dome,Georgia
+45,Mercedes-Benz Stadium,Atlanta,GA,USA,71000,Artificial,33.755556,-84.401,RetractableDome,Feb 3,2019,LIII (53),New England Patriots,13,Los Angeles Rams,3,Julian Edelman,Mercedes-Benz Stadium,Georgia
+45,Mercedes-Benz Stadium,Atlanta,GA,USA,71000,Artificial,33.755556,-84.401,RetractableDome,Jan 30,2000,XXXIV (34),St. Louis Rams,23,Tennessee Titans,16,Kurt Warner+,Georgia Dome,Georgia
+45,Mercedes-Benz Stadium,Atlanta,GA,USA,71000,Artificial,33.755556,-84.401,RetractableDome,Jan 30,1994,XXVIII (28),Dallas Cowboys,30,Buffalo Bills,13,Emmitt Smith+,Georgia Dome,Georgia
+27,Caesars Superdome,New Orleans,LA,USA,73208,Artificial,29.950833,-90.081111,Dome,Feb 3,2013,XLVII (47),Baltimore Ravens,34,San Francisco 49ers,31,Joe Flacco,Mercedes-Benz Superdome,Louisiana
+27,Caesars Superdome,New Orleans,LA,USA,73208,Artificial,29.950833,-90.081111,Dome,Feb 3,2002,XXXVI (36),New England Patriots,20,St. Louis Rams,17,Tom Brady,Louisiana Superdome,Louisiana
+27,Caesars Superdome,New Orleans,LA,USA,73208,Artificial,29.950833,-90.081111,Dome,Jan 26,1997,XXXI (31),Green Bay Packers,35,New England Patriots,21,Desmond Howard,Louisiana Superdome,Louisiana
+27,Caesars Superdome,New Orleans,LA,USA,73208,Artificial,29.950833,-90.081111,Dome,Jan 28,1990,XXIV (24),San Francisco 49ers,55,Denver Broncos,10,Joe Montana+,Louisiana Superdome,Louisiana
+27,Caesars Superdome,New Orleans,LA,USA,73208,Artificial,29.950833,-90.081111,Dome,Jan 26,1986,XX (20),Chicago Bears,46,New England Patriots,10,Richard Dent+,Louisiana Superdome,Louisiana
+27,Caesars Superdome,New Orleans,LA,USA,73208,Artificial,29.950833,-90.081111,Dome,Jan 25,1981,XV (15),Oakland Raiders,27,Philadelphia Eagles,10,Jim Plunkett,Louisiana Superdome,Louisiana
+27,Caesars Superdome,New Orleans,LA,USA,73208,Artificial,29.950833,-90.081111,Dome,Jan 15,1978,XII (12),Dallas Cowboys,27,Denver Broncos,10,Harvey MartinRandy White+,Superdome,Louisiana
+27,Caesars Superdome,New Orleans,LA,USA,73208,Artificial,29.950833,-90.081111,Dome,Jan 12,1975,IX (9),Pittsburgh Steelers,16,Minnesota Vikings,6,Franco Harris+,Tulane Stadium,Louisiana
+27,Caesars Superdome,New Orleans,LA,USA,73208,Artificial,29.950833,-90.081111,Dome,Jan 16,1972,VI (6),Dallas Cowboys,24,Miami Dolphins,3,Roger Staubach+,Tulane Stadium,Louisiana
+27,Caesars Superdome,New Orleans,LA,USA,73208,Artificial,29.950833,-90.081111,Dome,Jan 11,1970,IV (4),Kansas City Chiefs,23,Minnesota Vikings,7,Len Dawson+,Tulane Stadium,Louisiana
+29,State Farm Stadium,Glendale,AZ,USA,63400,Grass,33.528,-112.263036,RetractableDome,Feb 1,2015,XLIX (49),New England Patriots,28,Seattle Seahawks,24,Tom Brady,University of Phoenix Stadium,Arizona
+29,State Farm Stadium,Glendale,AZ,USA,63400,Grass,33.528,-112.263036,RetractableDome,Feb 3,2008,XLII (42),New York Giants,17,New England Patriots,14,Eli Manning,University of Phoenix Stadium,Arizona
+37,Levi's Stadium,Santa Clara,CA,USA,68500,Grass,37.403,-121.970274,Outdoor,Feb 7,2016,50,Denver Broncos,24,Carolina Panthers,10,Von Miller,Levi's Stadium,California
+38,Los Angeles Memorial Coliseum,Los Angeles,CA,USA,93607,Grass,34.014167,-118.287778,Outdoor,Jan 14,1973,VII (7),Miami Dolphins,14,Washington Redskins,7,Jake Scott,Memorial Coliseum,California
+38,Los Angeles Memorial Coliseum,Los Angeles,CA,USA,93607,Grass,34.014167,-118.287778,Outdoor,Jan 15,1967,I (1),Green Bay Packers,35,Kansas City Chiefs,10,Bart Starr+,Memorial Coliseum,California
