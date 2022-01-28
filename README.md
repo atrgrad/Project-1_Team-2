@@ -20,7 +20,7 @@ The team individually voted and the results are as follows:
  2. Strategy 2 - 25%
  3. Strategy 3 - 25%
 
-Winning strategy is Strategy 1
+Winning strategy is Strategy 2
 
 ## How do we obtain the data needed?
 
@@ -38,7 +38,7 @@ Using the large Super Bowl odds data frame, we created a data frame for each str
 
 ## Are there any trends or correlations within the strategies 
 
-We found that the Strategy 1 out performs Strategy 2 and 3.  Strategy 2 outperforms Strategy 3 but not Strategy 1. Strategy 3 does not outperform Strategy 1 or Strategy 2.
+We found that the Strategy 2 out performs Strategy 1 and 3.  Strategy 1 outperforms Strategy 3 but not Strategy 2. Strategy 3 does not outperform Strategy 1 or Strategy 2.
 
 We also developed scatter plots for each Strategy and compared the winning teams to the strategy's results.  The 2002 Bucs Super Bowl presented the highest return for Strategy 1.  The Pittsburg Steelers 2008 returned the most for Strategy 2 and Strategy 3
 
